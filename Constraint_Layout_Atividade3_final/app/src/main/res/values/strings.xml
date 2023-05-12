@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Constraint_Layout_Atividade3_final</string>
+    <string name="txt1">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut a aliquet nisi. Cras ex nibh, feugiat et nisl in, dapibus luctus dui. Curabitur vitae mattis purus. Nullam turpis dui, tincidunt id turpis lacinia, rhoncus varius justo. Praesent semper mi nisl, eget porta eros mattis gravida. Nam pellentesque vel dui vel aliquam. Maecenas quis vestibulum lacus, malesuada scelerisque urna. Quisque eget ipsum hendrerit, lacinia ante sed, pellentesque tortor. Praesent vitae eleifend mi. Sed commodo erat vitae mi pretium laoreet. Curabitur aliquet lacus eget faucibus tempor. Nullam mattis dignissim arcu, sed malesuada enim.</string>
+    <string name="txt2">Praesent vitae eleifend mi. Sed commodo erat vitae mi pretium laoreet. Curabitur aliquet lacus eget faucibus tempor. Nullam mattis dignissim arcu, sed malesuada enim.</string>
+    <string name="titulo">Melhor Texto</string>
+    <string name="btnEsquerda">Esquerda</string>
+    <string name="btnEmpate">Empate</string>
+    <string name="btnDireita">Direita</string>
+
+</resources>
